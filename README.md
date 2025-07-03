@@ -4,7 +4,7 @@
   Aspiring Cybersecurity Professional from Slovenia, passionate about SOC operations and continuous growth.
 </p>
 
-## 👋 About me
+## About Me
 
 🎓 Graduated in Information Security from the University of Criminal Justice and Security.  
 
@@ -20,14 +20,19 @@
 
 🏋️‍♂️ Love staying in shape primarily by resistance training and hiking.
 
-## 🛡️ Current Focus Areas
+## Current Focus Areas
 
-- SOC operations: log monitoring, incident triage & escalation
-- Threat & vulnerability management basics
-- Network security fundamentals: firewalls, IDS/IPS concepts
-- Incident response & handling
-- Python scripting for automation tasks
-- Preparing for CompTIA Security+ certification
+🔍 SOC operations: log monitoring, incident triage & escalation  
+
+🛡️ Threat & vulnerability management basics  
+
+🌐 Network security fundamentals: firewalls, IDS/IPS concepts  
+
+🚨 Incident response & handling  
+
+🐍 Python scripting for automation tasks  
+
+🎯 Preparing for CompTIA Security+ certification  
 
 ## 🛠️ Tech Stack
 
