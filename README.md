@@ -2,13 +2,6 @@
 
 <p align="center">
   Aspiring Cybersecurity Professional from Slovenia, passionate about SOC operations and continuous growth.
-  <br><br>
-  <a href="https://www.linkedin.com/in/blazkavcicvogrin" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/blazkv" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/blazkv?label=Follow&style=social" alt="GitHub Follow">
-  </a>
 </p>
 
 ## About Me
