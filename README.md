@@ -1,8 +1,13 @@
 ![Profile Banner](./assets/banner.png)
 
-<p align="center">
-  Aspiring Cybersecurity Professional from Slovenia, passionate about SOC operations and continuous growth.
-</p>
+<div align="center">
+  <p>
+    Aspiring Cybersecurity Professional from Slovenia, passionate about SOC operations and continuous growth.
+  </p>
+  <a href="https://www.linkedin.com/in/blazkavcicvogrin/" style="display: inline-block; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ## About Me
 
