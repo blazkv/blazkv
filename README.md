@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=25:ff3300,50:ffffff,75:00ccff&text=Blaž%20Kavčič%20Vogrin&fontAlign=20&fontAlignY=30&fontSize=30&section=header&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=25:ff3300,50:ffffff,75:00ccff&text=Blaž%20Kavčič%20Vogrin&fontAlign=75&fontAlignY=25&fontSize=24&section=header&fontColor=ffffff"
     alt="header"
     width="100%"
   />
