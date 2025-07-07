@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Blaž%20Kavčič%20Vogrin&section=header&fontSize=32&fontAlignY=25&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional&descAlign=50&descAlignY=40&textBg=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Bla%C5%BE%20Kav%C4%8Di%C4%8D%20Vogrin&fontAlign=80&fontAlignY=25&fontSize=30"
     alt="header"
     width="100%"
   />
@@ -66,7 +66,7 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&section=footer&fontSize=32&fontAlignY=25&fontAlign=50&descAlign=50&descAlignY=40&textBg=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&fontAlign=80&fontAlignY=25&fontSize=30&section=footer"
     width="100%"
   />
 </div>
