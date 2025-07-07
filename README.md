@@ -1,4 +1,10 @@
-![Profile Banner](./assets/banner.png)
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Blaž%20Kavčič%20Vogrin&section=header&fontSize=32&fontAlignY=25&fontAlign=50&desc=Aspiring%20Cybersecurity%20Professional&descAlign=50&descAlignY=40&textBg=false"
+    alt="header"
+    width="100%"
+  />
+</div>
 
 <div align="center">
   <p>
@@ -8,36 +14,33 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blazkavcicvogrin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.wrinkle553@passinbox.com) 
 </div>
 
-
 ## About Me
 
-🎓 Graduated in Information Security from the University of Criminal Justice and Security.  
+🎓 Information Security graduate from the University of Criminal Justice and Security. 
 
-📚 Currently working on my cybersecurity skills and documenting progress via my [learning journal repo](https://github.com/blazkv/cybersec-learning-journal).  
+📚 Currently sharpening my cybersecurity skills and sharing my journey in my [Cybersecurity Learning Journal](https://github.com/blazkv/cybersec-learning-journal).  
 
-🔐 Passionate about privacy in all aspects, especially in cyberspace.  
+🔐 Advocate for digital privacy and user sovereignty in the age of surveillance.
 
-💪 Enthusiastic about improving and maintaining security in my home system and professionally.  
+💪 Dedicated to securing and improving my personal systems, with the same mindset I bring to professional work.  
 
-🎯 Goal is to land a cybersecurity job in SOC and grow both professionally and personally.  
+🎯 My goal is to join a Security Operations team and continue growing as a cybersecurity professional.  
 
-🐱 Proud cat dad to a playful black-furred tomcat and a masterful hunter tabi kitty.  
+🐱 Proud cat dad to a mischievous black tomcat and a cunning tabby hunter.
 
-🏋️‍♂️ Love staying in shape primarily by resistance training and hiking.
+🏋️‍♂️ Outside of tech, I stay active through resistance training and hiking.
 
 ## Current Focus Areas
 
-🔍 SOC operations: log monitoring, incident triage & escalation  
+🔍 SOC labs: log monitoring, incident triage & escalation with SIEM tools and security data analysis for threat detection.
 
-🛡️ Threat & vulnerability management basics  
+🛡️ Building foundational skills in threat and vulnerability management.
 
-🌐 Network security fundamentals: firewalls, IDS/IPS concepts  
+🌐 Strengthening knowledge of network security fundamentals.
 
-🚨 Incident response & handling  
+🐍 Building Python skills through hands-on projects to enable future automation in cybersecurity.
 
-🐍 Python scripting for automation tasks  
-
-🎯 Preparing for CompTIA Security+ certification  
+🎯 Preparing rigorously for the CompTIA Security+ certification exam.
 
 ## Tech Stack
 
@@ -60,3 +63,10 @@
   <img src="https://img.shields.io/badge/Snort-00AABB?style=for-the-badge&logo=snort&logoColor=white" />
   <img src="https://img.shields.io/badge/Zeek-0F87A0?style=for-the-badge&logo=zeek&logoColor=white" />
 </p>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&section=footer&fontSize=32&fontAlignY=25&fontAlign=50&descAlign=50&descAlignY=40&textBg=false"
+    width="100%"
+  />
+</div>
