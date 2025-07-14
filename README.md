@@ -16,31 +16,31 @@
 
 ## About Me
 
-🎓 Information Security graduate from the University of Criminal Justice and Security. 
+🎓 Information Security graduate from the University of Criminal Justice and Security.
 
-📚 Currently sharpening my cybersecurity skills and sharing my journey in my [Cybersecurity Learning Journal](https://github.com/blazkv/cybersec-learning-journal).  
+📝 Actively sharpening cybersecurity skills and documenting my journey in my [Cybersecurity Learning Journal](https://github.com/blazkv/cybersec-learning-journal).
 
-🔐 Advocate for digital privacy and user sovereignty in the age of surveillance.
+🛡️ Passionate advocate for digital privacy and user sovereignty in today’s surveillance-driven world.
 
-💪 Dedicated to securing and improving my personal systems, with the same mindset I bring to professional work.  
+💪 Dedicated to securing and optimizing personal systems with the same precision and rigor I apply professionally.
 
-🎯 My goal is to join a Security Operations team and continue growing as a cybersecurity professional.  
+🚀 Aspiring to join a Security Operations team where I can contribute, learn, and grow as a cybersecurity professional.
 
-🐱 Proud cat dad to a mischievous black tomcat and a cunning tabby hunter.
+🐱 Cat parent to a playful black boycat and a clever tabby queen.
 
-🏋️‍♂️ Outside of tech, I stay active through resistance training and hiking.
+⛰️ Outside tech, I stay active through resistance training and hiking to maintain a balanced lifestyle.
 
 ## Current Focus Areas
 
-🔍 SOC labs: log monitoring, incident triage & escalation with SIEM tools and security data analysis for threat detection.
+🕵️‍♂️ SOC labs: log monitoring, incident triage, and escalation using SIEM tools, alongside security data analysis for effective threat detection.
 
-🛡️ Building foundational skills in threat and vulnerability management.
+🛡️ Developing foundational skills in threat and vulnerability management.
 
-🌐 Strengthening knowledge of network security fundamentals.
+🌐 Expanding expertise in network security fundamentals.
 
-🐍 Building Python skills through hands-on projects to enable future automation in cybersecurity.
+🐍 Advancing Python proficiency through hands-on projects aimed at automating cybersecurity tasks.
 
-🎯 Preparing rigorously for the CompTIA Security+ certification exam.
+🎯 Committed to mastering the skills necessary to excel and thrive in the cybersecurity field.
 
 ## Tech Stack
 
